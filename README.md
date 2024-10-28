@@ -12,8 +12,30 @@
 ### Demo
 <img src="media/demo.gif" width="450">
 
-### Installation
-Clone this repository:
-```bash
-git clone https://github.com/Glooring/color-distribution-analyzer.git
-cd color-distribution-analyzer
+---
+
+### Installation and Usage
+
+#### Run the App
+
+1. **Download the .exe**:
+   - Download the latest release from the [Releases page](https://github.com/Glooring/color-distribution-analyzer/releases) or directly using [this link](https://github.com/Glooring/color-distribution-analyzer/releases/download/v1.0.0/Release.zip).
+
+2. **Extract and Run**:
+   - Extract the `.zip` file.
+   - Double-click `color-distribution-analyzer.exe` to start the app.
+
+3. **Using the Application**:
+   - **Open the Application**: Once the app is running, select an image by using the "Select or Drop File" button, or drag and drop an image file directly into the app.
+   - **Specify Colors**: Enter colors in hex format (e.g., `#FFDF7F, #900DFF`) to analyze their presence in the image.
+   - **Adjust Sensitivity**: Use the sensitivity slider to determine how closely colors in the image should match the specified colors.
+   - **Generate Chart**: Click "Generate Pie Chart" to see the color distribution in a pie chart with a legend showing color percentages.
+
+---
+
+#### For Developers
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Glooring/color-distribution-analyzer.git
+   cd color-distribution-analyzer
