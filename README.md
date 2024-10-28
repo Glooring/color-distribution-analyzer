@@ -10,7 +10,7 @@
 - **Pie Chart Visualization**: View a color distribution chart of matching colors within the image.
 
 ### Demo
-<img src="media/demo.gif" width="600">
+<img src="media/demo.gif" width="450">
 
 ### Installation
 Clone this repository:
