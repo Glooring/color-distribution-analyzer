@@ -23,7 +23,7 @@
 
 2. **Extract and Run**:
    - Extract the `.zip` file.
-   - Double-click `color-distribution-analyzer.exe` to start the app.
+   - Double-click `app.exe` to start the application.
 
 3. **Using the Application**:
    - **Open the Application**: Once the app is running, select an image by using the "Select or Drop File" button, or drag and drop an image file directly into the app.
