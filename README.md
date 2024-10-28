@@ -19,7 +19,7 @@
 #### Run the App
 
 1. **Download the .exe**:
-   - Download the latest release from the [Releases page](https://github.com/Glooring/color-distribution-analyzer/releases) or directly using [this link](https://github.com/Glooring/color-distribution-analyzer/releases/download/v1.0.0/Release.zip).
+   - Download the latest release from the [Releases page](https://github.com/Glooring/color-distribution-analyzer/releases) or directly using [this link](https://github.com/Glooring/color-distribution-analyzer/releases/download/v1.0.0/color-distribution-analyzer-v1.0.0-release.zip).
 
 2. **Extract and Run**:
    - Extract the `.zip` file.
